@@ -1,0 +1,158 @@
+
+body {
+	background-color: #eeeeee;
+	font-family: "Inconsolata", sans-serif;
+	color: #555555;
+	font-size: 24pt;
+}
+
+
+h1 {
+	font-weight: normal;
+	font-size: 64pt;
+	text-align: center;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+h2 {
+	font-weight: normal;
+	font-size: 32pt;
+	margin-bottom: 8px;
+	margin-top: 8px;
+}
+
+a, em {
+	color: #6655ee;
+	text-decoration: none;
+}
+
+em {
+    font-style: normal;
+}
+
+a:hover, a:active {
+	text-shadow: 0px 0px 10px #aaaaff;
+}
+
+div.name {
+	margin-top: 32px;
+	margin-bottom: 32px;
+	text-align: center;
+}
+
+div.links {
+	text-align: center;
+	font-size: 28pt;
+	margin-top: 32px;
+	margin-bottom: 16px;
+}
+
+div#left {
+    vertical-align: top;
+    overflow: hidden;
+    height: 100%;
+    margin-right: 32px;
+}
+
+div#right {
+    overflow: hidden;
+    vertical-align: top;
+    margin-left: 32px;
+    height: 100%;
+}
+
+hr.vert {
+    height: 0;
+    width: 80%;
+    border-style: inset;
+}
+
+.dot {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    border: 1px solid #555555;
+}
+
+span.valign {
+    vertical-align: middle;
+}
+
+div.colors {
+    display: inline-block;
+    text-align: left;
+    line-height: 1.3;
+    max-width: 30%;
+}
+
+div.colors p {
+    margin-top: 0px;
+}
+
+
+#dot0 {
+    background-color: #000000;
+}
+
+#dot1 {
+    background-color: #0000aa;
+}
+
+#dot2 {
+    background-color: #00aa00;
+}
+
+#dot3 {
+    background-color: #00aaaa;
+}
+
+#dot4 {
+    background-color: #aa0000;
+}
+
+#dot5 {
+    background-color: #aa00aa;
+}
+
+#dot6 {
+    background-color: #ffaa00;
+}
+
+#dot7 {
+    background-color: #aaaaaa;
+}
+
+#dot8 {
+    background-color: #555555;
+}
+
+#dot9 {
+    background-color: #5555ff;
+}
+
+#dot10 {
+    background-color: #55ff55;
+}
+
+#dot11 {
+    background-color: #55ffff;
+}
+
+#dot12 {
+    background-color: #ff5555;
+}
+
+#dot13 {
+    background-color: #ff55ff;
+}
+
+#dot14 {
+    background-color: #ffff55;
+}
+
+#dot15 {
+    background-color: #ffffff;
+}
